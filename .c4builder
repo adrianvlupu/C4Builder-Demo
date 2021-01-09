@@ -6,7 +6,7 @@
 	"generateMD": true,
 	"generatePDF": false,
 	"generateCompleteMD": false,
-	"generateCompletePDF": false,
+	"generateCompletePDF": true,
 	"generateWEB": true,
 	"includeNavigation": false,
 	"includeTableOfContents": true,
@@ -14,9 +14,14 @@
 	"repoUrl": "",
 	"webPort": "3000",
 	"includeBreadcrumbs": true,
-	"generateLocalImages": false,
+	"generateLocalImages": true,
 	"includeLinkToDiagram": false,
 	"diagramsOnTop": true,
 	"charset": "UTF-8",
-	"hasRun": true
+	"hasRun": true,
+	"plantumlVersion": "latest",
+	"plantumlServerUrl": "https://www.plantuml.com/plantuml",
+	"diagramFormat": "png",
+	"pdfCss": "C:\\Projects\\C4-Builder\\pdf.css",
+	"docsifyTemplate": "./docsify.template.js"
 }
