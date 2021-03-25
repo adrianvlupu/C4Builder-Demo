@@ -20,7 +20,7 @@
 	"charset": "UTF-8",
 	"hasRun": true,
 	"plantumlVersion": "latest",
-	"plantumlServerUrl": "https://www.plantuml.com/plantuml",
+	"plantumlServerUrl": "http://www.plantuml.com/plantuml",
 	"diagramFormat": "png",
 	"pdfCss": "C:\\Projects\\C4-Builder\\pdf.css",
 	"docsifyTemplate": "./docsify.template.js"
