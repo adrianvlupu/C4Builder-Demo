@@ -13,8 +13,8 @@
 	"webTheme": "//unpkg.com/docsify/lib/themes/vue.css",
 	"repoUrl": "",
 	"webPort": "3000",
-	"includeBreadcrumbs": true,
-	"generateLocalImages": true,
+	"includeBreadcrumbs": false,
+	"generateLocalImages": false,
 	"includeLinkToDiagram": false,
 	"diagramsOnTop": true,
 	"charset": "UTF-8",
@@ -22,5 +22,6 @@
 	"plantumlVersion": "latest",
 	"plantumlServerUrl": "https://www.plantuml.com/plantuml",
 	"diagramFormat": "png",
-	"docsifyTemplate": "./docsify.template.js"
+	"docsifyTemplate": "./docsify.template.js",
+	"embedDiagram": false
 }

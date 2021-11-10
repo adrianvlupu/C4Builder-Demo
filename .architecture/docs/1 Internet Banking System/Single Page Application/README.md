@@ -1,7 +1,5 @@
 # Single Page Application
 
-`\1 Internet Banking System\Single Page Application`
-
 * [Overview](/docs/README.md)
   * [1 Internet Banking System](/docs/1%20Internet%20Banking%20System/README.md)
     * [API Application](/docs/1%20Internet%20Banking%20System/API%20Application/README.md)
@@ -12,7 +10,7 @@
 
 ---
 
-![diagram](container.png)
+![diagram](https://www.plantuml.com/plantuml/png/0/TLB1Rjim3BqRy3zmEIL05rzssYxDt6BfaBP1ucpeAM1iDbQdI88a9nk6_Vj8EKrRPCl1aSX7yhr7NOQ8FdOxdMVlbAbrrn2qCRhmiIWy7iPR5TjkqmNojJMHJ1pNTbTWunMQlUvSLvGVtiyrchYwdHKQ8uN8eNLfTyuQmRlKFCzcauVxLRN-VbDDrxFhBzTtLyEHn4lkYygG7w9J5p2Op6zWufnMDKPbpO13JxX7GDF0qdbbjd3xhPJm5Mcr9nyWjWIi8weQZYmJMiAAhzvGX0sQ7r8R-AC976u9y6NCUF2MpFgpxKo3_jSmEEHPoxviBcMlsOtWTvu1_qw2XzvsaT5SjEXFmdL1M4UG57cvJvcW9Wz1Aw4R5Fj-B1GcRpk6Q3s9O8m8IxdqBPlkfnmgrbappgC6ktaY7jHQtOXQiU2LokGIdG_GTgiCTvh9FpnQltlXN6eCuNbC0YRppfiuRn-L5fxp_fJS-a-ZvF-X9K-98_VTKiFR0dbgKAE1lQ93MYCrYWMfK32Q4SBkw7sU_P6bBKZtM-eVq2fG6lDrUNzNJAjglkntAx2Zq6T34tJqgS-TzlRFx4dTMJRFBiaqwPN_1G00)
 
 **Level 3: Component diagram**
 
