@@ -8,7 +8,7 @@
 	"generateCompleteMD": true,
 	"generateCompletePDF": true,
 	"generateWEB": true,
-	"includeNavigation": true,
+	"includeNavigation": false,
 	"includeTableOfContents": true,
 	"webTheme": "//unpkg.com/docsify/lib/themes/vue.css",
 	"repoUrl": "",
