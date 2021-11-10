@@ -5,7 +5,7 @@
 	"distFolder": "docs",
 	"generateMD": true,
 	"generatePDF": false,
-	"generateCompleteMD": false,
+	"generateCompleteMD": true,
 	"generateCompletePDF": true,
 	"generateWEB": true,
 	"includeNavigation": false,
@@ -22,6 +22,7 @@
 	"plantumlVersion": "latest",
 	"plantumlServerUrl": "https://www.plantuml.com/plantuml",
 	"diagramFormat": "png",
-	"docsifyTemplate": "./docsify.template.js",
-	"embedDiagram": false
+	"docsifyTemplate": "",
+	"embedDiagram": false,
+	"pdfCss": "C:\\Projects\\C4-Builder\\pdf.css"
 }
