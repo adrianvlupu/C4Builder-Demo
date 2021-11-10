@@ -1,5 +1,7 @@
 # Dynamic Diagram
 
+`\1 Internet Banking System\Single Page Application\Dynamic Diagram`
+
 * [Overview](/docs/README.md)
   * [1 Internet Banking System](/docs/1%20Internet%20Banking%20System/README.md)
     * [API Application](/docs/1%20Internet%20Banking%20System/API%20Application/README.md)
@@ -10,7 +12,7 @@
 
 ---
 
-![diagram](https://www.plantuml.com/plantuml/png/0/NLF1Rjim3Bq7o3zmEQL3brns6Z2iYNDOXtKDwdRNWfOPMvjC6HIL81ZsxvDSTqdg4oNwFJu-KZT1KJHsRZfvPzcuM1Eqgdtuj5mA7XQDrJPMCP0Opqgi2-Ex9TPYaVSkzd5PVFomTSZwTFTzwL0fQBfwtXmPEsiM_K0zdHG9ZPP9vg77QvYLbXj7iCM6ODNtpXfKwtcMKhzmZy68xHMGQrXn4nrApcp5xsrD0T0vq9R09ad2f50X_qwCi8jiCWywgqTG3oO6zHr9WBt5XB4aSA0AAl67rDHYTdMcRLFDwohLsQ1YXO5opNj1auI-Na5fMkemPqhrahHaRq2eiK5bw26fsddfNk8MGqirO4noMSSkmGZL-OWkN0CQGo60yqqwa9fBJSzh7xb6ESuhaugkjhSNVbtzcKuWVONlUi-9SnvimvO7Ynk6MuPC9Tuv6ZmiUyb6tVqiu27DwarsvLpoPUWfPFioMUedXnT-hqU_osDGwhBWDoB8H4aZo0N7y9Gzax4cv8l9NWvGA6zK_Qea8t9hfaLkyg7740vUwZFZ_kPjUo3ticSdCsBLMGtdpYVMNFfRUVzZ-VNnSLjc-80SGMTD56dZ0jYmEisHwlaLv0cCeFy_3oiKo95HU0yxyTtevw4beI5ERuFWCtmPwc_MHIQPJcw8w-6v_0C0)
+![diagram](dynamic.png)
 
 **Dynamic diagram**
 
